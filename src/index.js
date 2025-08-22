@@ -1,2 +1,2 @@
 console.log('index.js')
-console.group('version 2');
+console.group('version 3');
